@@ -1,7 +1,5 @@
 # Transport for Wales automated announcements
 
-> 🚄🔊 [I just want to look at the full set of announcements!](downloads/)
-
 Freedom of Information requests have allowed members of the public to request a copy of Transport for Wales Rail Limited's on-board train annoucement recordings for personal use.
 
 This repository offers the results of this Freedom of Information request to the general public without the administrative burden of submitting a FOI request to TfWRL.
